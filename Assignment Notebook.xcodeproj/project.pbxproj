@@ -14,6 +14,8 @@
 		5E14763B2B72983100D51196 /* Assignment_NotebookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E14763A2B72983100D51196 /* Assignment_NotebookTests.swift */; };
 		5E1476452B72983100D51196 /* Assignment_NotebookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1476442B72983100D51196 /* Assignment_NotebookUITests.swift */; };
 		5E1476472B72983100D51196 /* Assignment_NotebookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1476462B72983100D51196 /* Assignment_NotebookUITestsLaunchTests.swift */; };
+		5E1476562B7467A100D51196 /* AddItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1476552B7467A100D51196 /* AddItemView.swift */; };
+		5E1476582B7467D900D51196 /* assignment notebook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E1476572B7467D900D51196 /* assignment notebook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		5E1476402B72983100D51196 /* Assignment NotebookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Assignment NotebookUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E1476442B72983100D51196 /* Assignment_NotebookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITests.swift; sourceTree = "<group>"; };
 		5E1476462B72983100D51196 /* Assignment_NotebookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assignment_NotebookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E1476552B7467A100D51196 /* AddItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemView.swift; sourceTree = "<group>"; };
+		5E1476572B7467D900D51196 /* assignment notebook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "assignment notebook.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 			isa = PBXGroup;
 			children = (
 				5E1476302B72983100D51196 /* Preview Assets.xcassets */,
+				5E1476552B7467A100D51196 /* AddItemView.swift */,
+				5E1476572B7467D900D51196 /* assignment notebook.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -258,6 +264,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E14762C2B72982E00D51196 /* ContentView.swift in Sources */,
+				5E1476562B7467A100D51196 /* AddItemView.swift in Sources */,
+				5E1476582B7467D900D51196 /* assignment notebook.swift in Sources */,
 				5E14762A2B72982E00D51196 /* Assignment_NotebookApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
