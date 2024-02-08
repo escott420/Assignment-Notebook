@@ -1,9 +1,9 @@
 
 //  ToDoList.swift
 //  To-Do List
-//
+
 //  Created by Ethan Scott on 1/26/24.
-//
+
 
 import Foundation
 class ToDoList: ObservableObject {
